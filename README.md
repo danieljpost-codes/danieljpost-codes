@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danieljpost-codes
 - 👀 I’m interested in building tools that actually help people
-- 🌱 I’m currently learning React and TypeScript
+- 🌱 I’m currently learning React, TypeScript, and Rust
 - 💞️ I’m looking to collaborate on citizen science projects or educational systems
 - 📫 How to reach me: contact@danieljpost.pro
 
